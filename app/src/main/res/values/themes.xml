@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Theme.Parstagram" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimary">@color/white</item>
         <item name="colorPrimaryDark">@color/purple_700</item>
         <item name="colorAccent">@color/main_purple</item>
         <!-- Customize your theme here. -->
