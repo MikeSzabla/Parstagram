@@ -31,7 +31,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Parstagram_demo_2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Parstagram_demo_.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
